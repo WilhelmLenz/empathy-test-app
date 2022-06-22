@@ -1,0 +1,72 @@
+{
+  "base": {
+    "searchBox": {
+      "clear": "Borrar",
+      "placeholder": "Empieza a buscar"
+    },
+    "popularSearches": {
+      "title": "Búsquedas populares"
+    },
+    "historyQueries": {
+      "clear": "Limpiar historial",
+      "removeLabel": "Borrar {suggestion} del historial",
+      "title": "Historial"
+    },
+    "querySuggestions": {
+      "title": "Sugerencias"
+    },
+    "nextQueries": {
+      "title": "Para ti"
+    },
+    "nextQueriesGroup": {
+      "title": "Te podría interesar",
+      "message": "Esto es lo que otros compradores han buscado después de <span class=\"x-text x-text--bold\">\"{query}\"</span>"
+    },
+    "identifierResults": {
+      "title": "Búsqueda SKU"
+    },
+    "recommendations": {
+      "title": "Top Clicked"
+    },
+    "facets": {
+      "gender": "GÉNERO",
+      "categoryPaths": "CATEGORÍAS",
+      "price": "PRECI",
+      "usage": "USO",
+      "season": "TEMPORADA"
+    },
+    "filters": {
+      "all": "Todo"
+    },
+    "priceFilter": {
+      "lessThan": "hasta {max}",
+      "fromTo": "{min} - {max}",
+      "from": "desde {min}"
+    },
+    "filtersSearch": {
+      "placeholder": "Buscar"
+    },
+    "toggleAside": {
+      "hideAside": "Ocultar Filtros",
+      "showAside": "Mostrar Filtros"
+    },
+    "totalResults": {
+      "message": "{totalResults} resultados"
+    },
+    "sort": {
+      "label": "Ordenar por"
+    },
+    "selectedFilters": {
+      "clear": "Limpiar { selectedFiltersNumber } filtros"
+    },
+    "result": {
+      "addToCart": "AÑADIR AL CARRITO"
+    },
+    "spellcheck": {
+      "message": "No se han encontrado resultados para <span class=\"x-text--accent\">'{query}'</span>. Aquí tienes resultados para"
+    },
+    "noResults": {
+      "message": "No se han encontrado resultados para '{query}'. Prueba con otra búsqueda."
+    }
+  }
+}
